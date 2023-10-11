@@ -1,3 +1,5 @@
-tttttttttt
-ssss
-sebasasasas
+untraked
+trakeado y listo para un commit  (git add)
+commitearlo y isto para subir al resopositorio remoto (git commit)
+git commit -m ""
+git push origin master 
